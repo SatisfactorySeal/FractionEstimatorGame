@@ -1,3 +1,10 @@
+/**
+ * GameFrame
+ * Last Modified: April 2, 2024
+ * 
+ * The GameFrame class. Sets up the frame attributes and instantiates the GamePanel.
+ */
+
 import javax.swing.JFrame;
 
 public class GameFrame extends JFrame {
