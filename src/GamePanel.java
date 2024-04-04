@@ -1,7 +1,4 @@
 /**
- * GamePanel
- * Last Modified: April 2, 2024
- * 
  * The GamePanel class. Represents a JPanel and contains the game logic.
  */
 

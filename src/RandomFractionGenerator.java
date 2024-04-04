@@ -1,7 +1,4 @@
 /**
- * RandomFractionGenerator
- * Last Modified: April 2, 2024
- * 
  * A class that generates fractions with values at most MAX_FRACTION_SPAN above a goal value that
  * exists between the constants MIN_DOUBLE and MAX_DOUBLE. 
  * 
